@@ -18,9 +18,10 @@ But you can use this also in React.
 
 4. A navbar will be used to navigate Dashboard page, hompage, login page or logout.
 
+Here is the repository link: 
+`https://github.com/MusiurAlamOpu/hoc-private-route-next-js`
 
-If you want to know further...let me know via my email
-
+If you want to know further or facing any problem regarding implementation...let me know via my email
 `musiuralamo@gmail.com`
 
 Zajakallahu khayer.
