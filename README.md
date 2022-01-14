@@ -1,7 +1,7 @@
 
 # hoc-private-route-next-js
 
-Asslamo alaikum....
+Assalamo alaikum....
 
 
 Here I gonna show you how to use HOC(Higher Order Component) to make a private route in Next JS.
