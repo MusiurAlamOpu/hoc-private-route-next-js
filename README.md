@@ -21,6 +21,9 @@ But you can use this also in React.
 Here is the repository link: 
 `https://github.com/MusiurAlamOpu/hoc-private-route-next-js`
 
+Demo Site link:
+`https://hoc-private-route-next-js.vercel.app/`
+
 If you want to know further or facing any problem regarding implementation...let me know via my email
 `musiuralamo@gmail.com`
 
