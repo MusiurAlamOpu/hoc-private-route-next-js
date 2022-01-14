@@ -27,7 +27,8 @@ const Navbar = () => {
             <div>
                 <p>HOCprivate-route</p>
             </div>
-            <div>
+            <div className="linksInNav">
+                <Link href="/dashboard" passHref>Dashboard</Link>
                 <button className="linkStyle" onClick={handleLogout}>{isSignedIn ? "Logout" : "Login"}</button>
             </div>
         </nav>
